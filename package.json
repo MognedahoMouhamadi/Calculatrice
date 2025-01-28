@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "jsep": "^1.4.0",
+    "mathjs": "^10.6.4"
+  },
+  "name": "calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
